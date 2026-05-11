@@ -2,3 +2,4 @@ data/raw/german_credit_data.csv
 finance.db
 test.py
 export_parquet.py
+dashboard/
