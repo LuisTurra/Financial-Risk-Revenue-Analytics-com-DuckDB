@@ -8,7 +8,7 @@ import plotly.express as px
 # MELHOR PATHS
 # =====================================
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 
 EXPORT_DIR = BASE_DIR / "data" / "exports"
 
